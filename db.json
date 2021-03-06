@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": [
+        "Jugo de Naranja c/ frutilla"
+      ],
+      "price": [
+        "500"
+      ]
+    },
+    {
+      "name": "Jugo de Naranja",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Book",
+      "price": 300,
+      "id": 6
+    },
+    {
+      "name": "Lupin",
+      "price": 230,
+      "id": 7
+    }
+  ]
+}
